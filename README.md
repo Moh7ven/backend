@@ -1,3 +1,3 @@
 ## BACKEND
 
-In this, learned backend with nodejs, express, mongoDB form openclassroom.
+In this, i learned backend with nodejs, express, mongoDB from openclassroom.
